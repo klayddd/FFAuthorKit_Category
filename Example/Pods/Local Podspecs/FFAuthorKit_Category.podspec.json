@@ -1,0 +1,30 @@
+{
+  "name": "FFAuthorKit_Category",
+  "version": "0.1.0",
+  "summary": "A short description of FFAuthorKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/klayddd/FFAuthorKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "klay": "393304520@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/klayddd/FFAuthorKit_Category.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFAuthorKit_Category/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "FFAPIsKit": [
+
+    ]
+  }
+}
