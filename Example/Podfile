@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FFAuthorKit_Category_Example' do
+  pod 'FFAuthorKit_Category', :path => '../'
+
+  target 'FFAuthorKit_Category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
